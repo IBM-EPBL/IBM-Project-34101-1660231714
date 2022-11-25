@@ -3,6 +3,7 @@
 Signs with Smart Connectivity for Better Road Safety
 
 Team Leader :  MANOJ KUMAR M
-Team members:  JEGAN S
-               HARIKRISHNAN T
+
+Team members:  JEGAN S ,
+               HARIKRISHNAN T ,
                KIRTHIK SARAN P
